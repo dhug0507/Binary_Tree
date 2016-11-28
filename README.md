@@ -1,0 +1,2 @@
+# Binary_Tree
+Assignment 6 Your binary search tree class should have the following methods: • search—finds and returns the node that matches a search key (if it exists; otherwise return null) • insert—inserts a node into the tree • delete—deletes a node from the tree • print—traverse (inorder) and print each node • any methods you need to solve the problem of using a tree to make a word frequency histogram. You should be able to read a file and add a word if it isn’t in the tree yet and update a counter associated with it if it is in the tree.
