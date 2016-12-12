@@ -99,7 +99,7 @@ public class BinaryTree {
          printInorder(node.right);
      }
   
-     // driver program to test above functions
+     // driver program to test above functions.
      public static void main(String args[]) throws IOException{
          BinaryTree tree = new BinaryTree();
          Scanner inFile = new Scanner(new File("testSentence.txt"));
